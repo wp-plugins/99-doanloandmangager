@@ -1,7 +1,7 @@
-=== Plugin Name ===
+ï»¿=== Plugin Name ===
 Plugin Name: 99dl DoanloandMangager
 Plugin URI: http://www.iesay.com/99dl-Lightbox-doanloandmanager
-Description: wordpress µ¯´°ÏÂÔØÆ÷.¸ù¾İLightbox for imageĞŞ¸Ä.
+Description: wordpress å¼¹çª—ä¸‹è½½å™¨.æ ¹æ®Lightbox for imageä¿®æ”¹.
 Author: 99839
 Author URI: http://www.iesay.com/
 Version: 1.0
@@ -28,7 +28,7 @@ This plugin make shortcodes to use in your post or pages. Use it to open downlan
 
 == How to use ==
 
-1.Ê¹ÓÃ·½·¨: <code>[idl id="×Ô¶¨ÒåÖµ" t="ÒªÏÔÊ¾µÄÁ´½ÓÎÄ×Ö"] ÏÂÔØÁ´½ÓÁĞ±í [/idl]</code>. »òÊÇÍ¼Æ¬µ¯´°<code>[idl img="file.jpg"]Í¼Æ¬µØÖ·[/idl]</code>. Development by <a href="http://www.iesay.com">99dl DoanloandMangager</a> and based on http://famspam.com/facebox
+1.ä½¿ç”¨æ–¹æ³•: <code>[idl id="è‡ªå®šä¹‰å€¼" t="è¦æ˜¾ç¤ºçš„é“¾æ¥æ–‡å­—"] ä¸‹è½½é“¾æ¥åˆ—è¡¨ [/idl]</code>. æˆ–æ˜¯å›¾ç‰‡å¼¹çª—<code>[idl img="file.jpg"]å›¾ç‰‡åœ°å€[/idl]</code>. Development by <a href="http://www.iesay.com">99dl DoanloandMangager</a> and based on http://famspam.com/facebox
 
 == Screenshots ==
 
@@ -44,7 +44,7 @@ none
 
 == Upgrade Notice ==
 
-1¡¢ĞŞ¸´ÁËÆôÓÃ²å¼şÌáÊ¾¡°ÌáÊ¾ÓĞ3¸ö×Ö·ûÊä³öÒì³£¡±µÄbug£»
-2¡¢ĞŞ¸´ÁËµ¯´°¹ã¸æÔÚchrome¡¢firefoxÏÂÓĞÊ±²»ÄÜÏÔÊ¾µÄbug£¨²ÉÓÃµÄÊÇ¿ò¼ÜÄ£Ê½£¬Ôö¼ÓÁËÒ»¸öadlinks.php£©¡£¹ã¸æ´úÂëÔÚĞŞ¸Ä¡£
-3¡¢ĞŞ¸´ÁË²»ÄÜÏÔÊ¾°Ù¶ÈÁªÃË¼°·Çgoogle¹ã¸æÔÚµ¯´°ÎŞ·¨ÏÔÊ¾µÄbug¡£
-3¡¢ĞŞ¸´ÁËÑÏÖØBUG¡£ÔÚºóÌ¨²»ÄÜ±à¼­²å¼şÄÚÈİ¡£
+1ã€ä¿®å¤äº†å¯ç”¨æ’ä»¶æç¤ºâ€œæç¤ºæœ‰3ä¸ªå­—ç¬¦è¾“å‡ºå¼‚å¸¸â€çš„bugï¼›
+2ã€ä¿®å¤äº†å¼¹çª—å¹¿å‘Šåœ¨chromeã€firefoxä¸‹æœ‰æ—¶ä¸èƒ½æ˜¾ç¤ºçš„bugï¼ˆé‡‡ç”¨çš„æ˜¯æ¡†æ¶æ¨¡å¼ï¼Œå¢åŠ äº†ä¸€ä¸ªadlinks.phpï¼‰ã€‚å¹¿å‘Šä»£ç åœ¨ä¿®æ”¹ã€‚
+3ã€ä¿®å¤äº†ä¸èƒ½æ˜¾ç¤ºç™¾åº¦è”ç›ŸåŠégoogleå¹¿å‘Šåœ¨å¼¹çª—æ— æ³•æ˜¾ç¤ºçš„bugã€‚
+3ã€ä¿®å¤äº†ä¸¥é‡BUGã€‚åœ¨åå°ä¸èƒ½ç¼–è¾‘æ’ä»¶å†…å®¹ã€‚
